@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class questions {
 
     private String answer;
@@ -18,6 +19,7 @@ public class questions {
     public String state(){
         return (question);
     }
+
 
 }
 
